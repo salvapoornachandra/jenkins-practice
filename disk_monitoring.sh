@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "dsjhdhfhfdfd"
+echo "print the pritny"
 echo "===== Disk Usage ====="
 
 df -h /

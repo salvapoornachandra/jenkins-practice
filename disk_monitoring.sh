@@ -1,4 +1,5 @@
 #!/bin/bash
+echo "welcome to devops"
 
 echo "===== Disk Usage ====="
 

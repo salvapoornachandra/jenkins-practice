@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "docker"
+
 echo "===== SYSTEM INFORMATION ====="
 
 echo "Hostname:"

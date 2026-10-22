@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "disk usage monitoring"
+
 echo "===== Disk Usage ====="
 
 df -h /
